@@ -21,6 +21,10 @@ O site encontra-se online e acessível através do seguinte link:
 ## Estado Atual
 O site está totalmente funcional e acessível online. Alterações futuras podem ser feitas diretamente dentro do MetaGPT, mantendo a mesma estrutura do projeto original.
 
+##Deploy
+
+Em fase de conclusão.
+
 ## Acesso ao Projeto
 Link direto: **https://mgx.dev/app/507c58a800a34f81bc9675ef67abcfeb**
 
